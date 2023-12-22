@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Dependencies](#dependencies)
-- [File](#Files and Components)
+- [File](#Files_and_Components)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -15,7 +15,7 @@ This High-Frequency Trading (HFT) system project aims to create a robust trading
  - This project uses C++11 standard.
  - Ensure a compatible C++ compiler (e.g., g++) is installed.
 
-## Files and Components
+## Files_and_Components
 main.cpp
 Entry point of the program.
 Creates two threads: one for the client and the other for the server.
